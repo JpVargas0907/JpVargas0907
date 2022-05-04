@@ -18,15 +18,14 @@ Sou cristão, fã de animes, amo assistir filmes e sou viciado em tomar um bom c
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br/>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br>
 
 ### Entre em Contato 
 
-<a href= "https://www.linkedin.com/in/jo%C3%A3o-paulo-vargas-694068191"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+<a href= "https://www.linkedin.com/in/jo%C3%A3o-paulo-vargas-694068191"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <br>
 
 ### GitHub Stats
 
-<img align="left" alt="GitHub Stats do João" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
 <!--
 **JpVargas0907/JpVargas0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
