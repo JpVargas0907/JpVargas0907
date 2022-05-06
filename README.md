@@ -26,6 +26,8 @@ Sou cristão, fã de animes, amo assistir filmes e sou viciado em tomar um bom c
 
 ### GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JpVargas0907)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JpVargas0907/JpVargas0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
