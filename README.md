@@ -3,7 +3,7 @@
 Meu nome é João Paulo Vargas, tenho 22 anos. Sou mineiro e atualmente moro em Brasília. 
 Estou no momento me capacitando para conquistar minha primeira vaga como dev. Fiz o curso de Análise e Desenvolvimento de Sistemas pela FIAP e atualmente faço parte do BOOTCAMP da DRIVEN. 
 
-### Objetivo 
+### Próximo Objetivo 
 
 Atulamente iniciei os estudos em REACT e tenho interesse em trabalhar com a tecnologia como frontend developer.
 
