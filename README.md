@@ -1,7 +1,7 @@
 ## Hello Wolrd! 👋
 
 Meu nome é João Paulo Vargas, tenho 22 anos. Sou mineiro e atualmente moro em Brasília. 
-Estou no momento me capacitando para conquistar minha primeira vaga como dev. Fiz o curso de Análise e Desenvolvimento de Sistemas pela FIAP e atualmente faço parte do BOOTCAMP da DRIVEN. 
+Estou no momento me capacitando para conquistar minha primeira vaga como dev. Fiz o curso de Análise e Desenvolvimento de Sistemas pela FIAP e atualmente faço parte do BOOTCAMP da DRIVEN que tem como objetivo me formar em fullstack web developer. 
 
 ### Próximo Objetivo 
 
