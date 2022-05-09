@@ -33,10 +33,6 @@ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logo
 
 <a href= "https://www.linkedin.com/in/jo%C3%A3o-paulo-vargas-694068191"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <br>
 
-### Most Used Language
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={JpVargas0907}
-
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JpVargas0907)](https://github.com/anuraghazra/github-readme-stats)
