@@ -5,7 +5,7 @@ Estou no momento me capacitando para conquistar minha primeira vaga como dev. Fi
 
 ### Próximo Objetivo 
 
-Atulamente iniciei os estudos em REACT e tenho interesse em trabalhar com a tecnologia como frontend developer.
+Atulamente iniciei os estudos em REACT e tenho interesse em trabalhar com a tecnologia como Front End Developer.
 
 ### Curiosidades Sobre Mim
 
