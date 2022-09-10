@@ -1,6 +1,6 @@
 ## Hello Wolrd! 👋
 
-Meu nome é João Paulo Vargas, tenho 22 anos. Sou mineiro e atualmente moro em Brasília. 
+Meu nome é João Paulo Vargas, tenho 23 anos. Sou mineiro e atualmente moro em Brasília. 
 Estou no momento me capacitando para conquistar minha primeira vaga como dev. Fiz o curso de Análise e Desenvolvimento de Sistemas pela FIAP e atualmente faço parte do BOOTCAMP da DRIVEN que é um curso de formação para se tornar um fullstack web developer. 
 
 ### Próximo Objetivo 
@@ -9,17 +9,12 @@ Atulamente iniciei os estudos em REACT e tenho interesse em trabalhar com a tecn
 
 ### Curiosidades Sobre Mim
 
-Sou cristão, fã de animes, amo assistir filmes e sou viciado em tomar um bom café com pão de queijo.
+Sou cristão, fã de animes, amo assistir filmes e sou viciado em tomar um bom café.
 
 ### Skills
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="78px"
-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,java,nodejs,mongodb,figma&theme=dark)](https://skillicons.dev)
+<br>
 
 ### Entre em Contato 
 
