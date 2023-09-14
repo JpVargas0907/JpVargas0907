@@ -1,11 +1,11 @@
 ## Hello Wolrd! 👋
 
-Meu nome é João Paulo Vargas, tenho 23 anos. Sou mineiro e atualmente moro em Brasília. 
-Estou no momento me capacitando para conquistar minha primeira vaga como dev. Fiz o curso de Análise e Desenvolvimento de Sistemas pela FIAP e atualmente faço parte do BOOTCAMP da DRIVEN que é um curso de formação para se tornar um fullstack web developer. 
+Meu nome é João Paulo Vargas, tenho 24 anos. Sou mineiro e atualmente moro em Brasília. 
+Estou no momento trabalhando como desenvolvedor front end júnior, trabalhando com desenvolvimento de portais Liferay. Fiz o curso de Análise e Desenvolvimento de Sistemas pela FIAP e atualmente faço parte do BOOTCAMP da DRIVEN que é um curso de formação para se tornar um fullstack web developer. 
 
 ### Próximo Objetivo 
 
-Atulamente iniciei os estudos em REACT e tenho interesse em trabalhar com a tecnologia como Front End Developer.
+Atualmente meus próximos objetivos é terminar a formação da Driven, me aprofundar nos estudos de React e tirar minha certificação front end da Liferay.
 
 ### Curiosidades Sobre Mim
 
