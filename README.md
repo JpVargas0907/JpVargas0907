@@ -1,11 +1,14 @@
 ## Hello Wolrd! 👋
 
-Meu nome é João Paulo Vargas, tenho 24 anos. Sou mineiro e atualmente moro em Brasília. 
-Estou no momento trabalhando como desenvolvedor front end júnior, trabalhando com desenvolvimento de portais Liferay. Fiz o curso de Análise e Desenvolvimento de Sistemas pela FIAP e atualmente faço parte do BOOTCAMP da DRIVEN que é um curso de formação para se tornar um fullstack web developer. 
+Meu nome é João Paulo Crisosto Vargas, tenho 26 anos. Sou mineiro e atualmente moro em Brasília. 
+Estou no momento trabalhando como desenvolvedor front end pleno, atuando com o desenvolvimento de portais Liferay na CNI(Confederação Nacional da Indústria). 
+Concluí o curso de Análise e Desenvolvimento de Sistemas em dezembro de 2021 pela FIAP. Já atuo como desenvolvedor Front End Liferay há cerca de quatro anos, durante esse período já enfreitei diversos desafios. Além da experiência com a stack de frontend também tenho conhecimento e estou apto para atuar no desenvolvimento backend. 
 
 ### Próximo Objetivo 
 
-Atualmente meus próximos objetivos é terminar a formação da Driven, me aprofundar nos estudos de React e tirar minha certificação front end da Liferay.
+- Tirar as certificações Liferay para o desenvolvimento frontEnd e backEnd.
+- Iniciar uma Pós graduação.
+- Manter os conhecimentos sempre atualizados principalmente os assuntos relacionados a IA.
 
 ### Curiosidades Sobre Mim
 
@@ -13,7 +16,7 @@ Sou cristão, fã de animes, amo assistir filmes e sou viciado em tomar um bom c
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,java,nodejs,mongodb,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=liferay,jquery,docker,js,html,css,git,github,react,java,nodejs,mongodb,figma&theme=dark)](https://skillicons.dev)
 <br>
 
 ### Entre em Contato 
